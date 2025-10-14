@@ -3,14 +3,14 @@
 🎯 **Data Science & AI Enthusiast**  
 📍 Ottawa, ON, Canada  
 
-I’m passionate about leveraging **data science and machine learning** to solve real-world problems — especially in **fraud detection** and **customer analytics**. With a strong background in **telecommunications** and **data analytics**, I enjoy building solutions that enhance operational efficiency and uncover valuable insights.
+I’m passionate about applying data science and machine learning techniques to address real-world challenges. With a strong background in mobile telecommunications data analytics, I develop solutions that optimize network performance, enhance customer experience, and reduce operational costs.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 **Postgraduate Student in Artificial Intelligence & Machine Learning** at Lambton College, Ottawa  
-- 💼 Former **Senior Data Analyst / RF Optimization Manager** with extensive experience in network performance, ETL, and advanced analytics  
+- 💼 Former **Senior Data Analyst / RF Quality Manager** with extensive experience in network performance, ETL, and advanced analytics  
 - 🚀 Interested in **Fraud Analytics**, **Customer Retention**, and **Machine Learning Applications** in Finance and Telecom  
 - ✨ Always learning, building, and collaborating on impactful data projects
 
