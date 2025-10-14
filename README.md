@@ -39,7 +39,7 @@ I’m passionate about leveraging **data science and machine learning** to solve
 
 - 💼 www.linkedin.com/in/babalola-oluyeye 
 - ✉️ Email: *boluyeye@gmail.com*  
-- 🌐 Portfolio: *yourwebsite.com*
+
 
 ---
 
